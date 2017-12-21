@@ -5,3 +5,4 @@ var meals = { breakfast: "oatmeal", lunch: "turkey sandwich", dinner: "steak and
 delete meals.dinner; // true
  
 meals;
+console.log(meals);
